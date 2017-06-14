@@ -1,0 +1,6 @@
+D:\CodingInterviewPrep\CountPairsWithGivenSum\SameFirstAndLastDigit\bin\Debug\SameFirstAndLastDigit.exe.config
+D:\CodingInterviewPrep\CountPairsWithGivenSum\SameFirstAndLastDigit\bin\Debug\SameFirstAndLastDigit.exe
+D:\CodingInterviewPrep\CountPairsWithGivenSum\SameFirstAndLastDigit\bin\Debug\SameFirstAndLastDigit.pdb
+D:\CodingInterviewPrep\CountPairsWithGivenSum\SameFirstAndLastDigit\obj\Debug\SameFirstAndLastDigit.csprojResolveAssemblyReference.cache
+D:\CodingInterviewPrep\CountPairsWithGivenSum\SameFirstAndLastDigit\obj\Debug\SameFirstAndLastDigit.exe
+D:\CodingInterviewPrep\CountPairsWithGivenSum\SameFirstAndLastDigit\obj\Debug\SameFirstAndLastDigit.pdb
