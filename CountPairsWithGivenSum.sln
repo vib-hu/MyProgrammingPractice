@@ -39,6 +39,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linklist", "Linklist", "{18
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinklistImplematation", "LinklistImplematation\LinklistImplematation.csproj", "{566FF970-4D48-493B-9C58-959B37912E6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumTwoLinklist", "SumTwoLinklist\SumTwoLinklist.csproj", "{AFA4A2A1-051A-4EBF-9E1E-C53AD294A4D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +111,10 @@ Global
 		{566FF970-4D48-493B-9C58-959B37912E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{566FF970-4D48-493B-9C58-959B37912E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{566FF970-4D48-493B-9C58-959B37912E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA4A2A1-051A-4EBF-9E1E-C53AD294A4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA4A2A1-051A-4EBF-9E1E-C53AD294A4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA4A2A1-051A-4EBF-9E1E-C53AD294A4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA4A2A1-051A-4EBF-9E1E-C53AD294A4D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -119,5 +125,6 @@ Global
 		{438999F7-6236-4AF0-97F5-E986328E2849} = {B689B2CD-93F1-4428-A79E-AF24182CEA2F}
 		{564A5D2A-3EB1-4C0B-A27A-1D14D3CEB54D} = {62B41F5B-5022-4318-8BB4-DA22C26B651D}
 		{566FF970-4D48-493B-9C58-959B37912E6F} = {18EAEC30-AE54-4F4F-921B-07BE825CFCC0}
+		{AFA4A2A1-051A-4EBF-9E1E-C53AD294A4D6} = {18EAEC30-AE54-4F4F-921B-07BE825CFCC0}
 	EndGlobalSection
 EndGlobal
