@@ -10,6 +10,8 @@ namespace SumTwoLinklist
     {
         static LinkList firstLinkList = new LinkList();
         static LinkList secondLinkList = new LinkList();
+        public static StringBuilder number= new StringBuilder();
+
         static void Main(string[] args)
         {
             Node node1 = new Node();
@@ -49,17 +51,18 @@ namespace SumTwoLinklist
 
         public static void SumLinkList()
         {
-            getNumber(firstLinkList.head);
-
+          var num=  getNumber(firstLinkList.head);
+          Console.WriteLine(num);
         }
 
-        public static void getNumber(Node next)
+        public static int getNumber(Node next)
         {
             if (next == null)
-                return;
+                return 0;
 
-        getNumber(next.next);
-        Console.Write(next.value);
+            getNumber(next.next);
+            number.Append(next.value);
+            return Convert.ToInt32(number.ToString());
         }
 
     }
